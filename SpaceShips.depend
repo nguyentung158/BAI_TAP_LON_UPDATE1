@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1619620365 source:c:\users\administrator\documents\spaceships\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<SDL.h>
+	<time.h>
+	<vector>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Texture.h"
+	"dichuyenmain.h"
+	"kedich.h"
+	"mainbullet.h"
+	<SDL_mixer.h>
+	"boss.h"
+	"MouseMenu.h"
+
+1619358675 c:\users\administrator\documents\spaceships\texture.h
+
+1619594596 c:\users\administrator\documents\spaceships\dichuyenmain.h
+
+1619622209 c:\users\administrator\documents\spaceships\kedich.h
+
+1619593695 c:\users\administrator\documents\spaceships\mainbullet.h
+	<vector>
+
+1619597126 c:\users\administrator\documents\spaceships\boss.h
+
+1619374347 c:\users\administrator\documents\spaceships\mousemenu.h
+
