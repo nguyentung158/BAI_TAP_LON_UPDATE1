@@ -9,6 +9,7 @@ Game của em có tên là "Space Ship", được em lấy ý tưởng từ mộ
 
 * Link youtube : https://www.youtube.com/watch?v=xnrftBCQzs0  (gồm phụ đề).
 
-Mô tả: sử dụng các phím w,a,s,d để di chuyển tàu chiến của bạn và nhấn chuột để bắn đạn.
+Mô tả: sử dụng các phím w,a,s,d để di chuyển tàu chiến của bạn và nhấn chuột để bắn đạn, tiêu diệt tàu địch.
+Đánh bại boss để dành được chiến thắng.
 
 Em có tham khảo code hàm checkCollision(Lazy Fool), còn lại toàn bộ code đều do em tự viết.
